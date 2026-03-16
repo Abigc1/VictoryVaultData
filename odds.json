@@ -1,10 +1,15 @@
 {
   "2.00 ODDS 1": "WAITING...",
+  "2.00 ODDS 2": "WAITING...",
   "BET OF DAY 1": "WAITING...",
-  "BREAKFAST TICKET": "WAITING...",
-  "ROLLOVER": "WAITING...",
-  "INVESTMENT": "WAITING...",
-  "VIP_MAIN": "SB123ABC",
-  "VIP_INSURANCE": "ACTIVE",
-  "STATUS_MESSAGE": "VAULT SECURED - ADMIN ONLINE"
+  "BET OF DAY 2": "WAITING...",
+  "BREAKFAST TICKET 1": "WAITING...",
+  "BREAKFAST TICKET 2": "WAITING...",
+  "free 1.5 odds (Rollover) 1": "WAITING...",
+  "free 1.5 odds (Rollover) 2": "WAITING...",
+  "free 1.30 odds (Rollover) 1": "WAITING...",
+  "free 1.30 odds (Rollover) 2": "WAITING...",
+  "INVESTMENT TICKET 1": "WAITING...",
+  "INVESTMENT TICKET 2": "WAITING...",
+  "VIP_MAIN": "WAITING..."
 }
